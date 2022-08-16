@@ -5,10 +5,10 @@ redirect_from:
   - /articles/exploring-early-access-releases-with-feature-preview
   - /github/getting-started-with-github/exploring-early-access-releases-with-feature-preview
   - /github/getting-started-with-github/using-github/exploring-early-access-releases-with-feature-preview
-versions:
-  fpt: '*'
-  ghec: '*'
-topics:
+versions:exploring-early-access-releases-with-feature-preview.md
+  fpt: '*'exploring-early-access-releases-with-feature-preview.md
+  ghec: '*'exploring-early-access-releases-with-feature-preview.md
+topics:exploring-early-access-releases-with-feature-preview.md
   - Early access
 shortTitle: Feature preview
 ---
@@ -29,3 +29,4 @@ You can see a list of features that are available in beta and a brief descriptio
 {% data reusables.feature-preview.feature-preview-setting  %}
 2. Optionally, to the right of a feature, click **Enable** or **Disable**.
   ![Enable button in feature preview](/assets/images/help/settings/enable-feature-button.png)
+exploring-early-access-releases-with-feature-preview.md
